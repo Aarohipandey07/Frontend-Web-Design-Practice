@@ -51,10 +51,3 @@ This project was created to:
 
 ---
 
-## 🙋‍♂️ Author
-
-Created by *[Your Name]*
-
----
-
-⭐ If you like this project, feel free to star the repository!
